@@ -9,10 +9,10 @@
 #### **Programming Languages**
 - **Java** (Proficient in OOP and DSA)
 - Python  
-- c
+- C
 
 #### **Web Development**
--  FrontEnd:HTML, CSS, JavaScript  
+-  FrontEnd: HTML, CSS, JavaScript  
 
 
 #### **Tools & Platforms**
