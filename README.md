@@ -23,10 +23,12 @@
 
 ---
 
-### 🎯 **Achievements**
-- B.Tech Student with specialization in Information Technology
-- Samrat Ashok Technological Institute,Vidisha
-- **Current CGPA:** 8.42  (2nd Year)
+## 🎓 **Education**
+- **Samrat Ashok Technological Institute (S.A.T.I.), Vidisha**  
+  - **Degree**: Bachelor of Technology in Information Technology  
+  - **Year**: 2nd Year (2023–2027)  
+  - **CGPA**: 8.42  
+
   
   
 
