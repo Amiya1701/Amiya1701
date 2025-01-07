@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Amiya Bisen  
 
-🚀 **Aspiring Full-Stack Developer | IT Undergrad at Samrat Ashok Technological Institute, Vidisha**  
+🚀 **Information Technology Undergrad | Web Development & DSA Enthusiast**  
 
 ---
 
@@ -9,30 +9,26 @@
 #### **Programming Languages**
 - **Java** (Proficient in OOP and DSA)
 - Python  
-- C  
+- c
 
 #### **Web Development**
-- HTML, CSS, JavaScript  
-- Frontend Frameworks: React.js  
-- Backend: Node.js, Express.js  
-- Databases: MongoDB, MySQL  
+-  FrontEnd:HTML, CSS, JavaScript  
+
 
 #### **Tools & Platforms**
 - Git & GitHub  
 - Visual Studio Code  
-- Postman  
-- VSCode  
+- Intellij IDEA
 - Operating Systems: Linux, Windows  
 
 ---
 
 ### 🎯 **Achievements**
-- **Current CGPA:** 8.42 in IT (2nd Year)  
-- Built an **IPL Cricket Team Project** for a college competition.  
-- Created a **Mango Garden Website** as part of a personal project.  
-- Delivered multiple **presentations** on topics like Web Development, LeetCode, and the Indian Constitution.  
-- Secured a position in college technical club **Flux** focused on robotics.  
-- Solved **100+ coding problems** on platforms like LeetCode and HackerRank.  
+- B.Tech Student with specialization in Information Technology
+- Samrat Ashok Technological Institute,Vidisha
+- **Current CGPA:** 8.42  (2nd Year)
+  
+  
 
 ---
 
@@ -43,17 +39,15 @@
 
 ---
 
-### 🌟 **Hobbies and Interests**
-- 🏸 Badminton  
-- 🧩 Solving puzzles  
-- 🚗 Driving  
+ 
 
 ---
 
-### 📫 **Get in Touch**
-- **LinkedIn:** [Your LinkedIn Profile](#)  
-- **Portfolio:** [Your Portfolio Website (if any)](#)  
-- **Email:** [amiyabisen@example.com](mailto:amiyabisen@example.com)  
+### 📫 **Let's Connect**
+- **LinkedIn**: [Amiya Bisen](https://www.linkedin.com/in/amiya-bisen-2833922b1)  
+- **GitHub**: [Amiya1701](https://github.com/Amiya1701)  
+- **Email**: [bisen.amiya@gmail.com](mailto:bisen.amiya@gmail.com)  
+
 
 ---
 
