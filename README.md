@@ -19,7 +19,7 @@
 - Git & GitHub  
 - Visual Studio Code  
 - Intellij IDEA
-- Operating Systems: Linux, Windows  
+- Operating Systems:  Windows  
 
 ---
 
