@@ -10,6 +10,7 @@
 - **Java** (Proficient in OOP and DSA)
 - Python  
 - C
+- SQL
 
 #### **Web Development**
 -  FrontEnd: HTML, CSS, JavaScript  
